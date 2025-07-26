@@ -1,6 +1,13 @@
 # MULTITHREADED-CHAT-APPLICATION
-This is a client-server chat application built using Java sockets and multithreading.
-## How to Run
-1. Compile: `javac Server.java` and `javac Client.java`
-2. Start Server: `java Server`
-3. Start Clients (in different terminals): `java Client`
+Company: Codtech IT Solutions
+
+Name: Om Prabhuranjan Sahasrabuddhe
+
+Intern ID: CT06DH2499
+
+Domain: Java Programming
+
+Duration: 6 Weeks
+
+Mentor: Neela Santosh
+
